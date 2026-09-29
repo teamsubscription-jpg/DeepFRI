@@ -1,0 +1,7 @@
+.git
+figs
+examples
+preprocessing
+trained_models
+newest_trained
+**/__pycache__
